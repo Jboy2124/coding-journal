@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/coding-journal/static/css/main.75693a06.css",
-    "main.js": "/github.io/coding-journal/static/js/main.0a526c5a.js",
-    "index.html": "/github.io/coding-journal/index.html",
-    "main.75693a06.css.map": "/github.io/coding-journal/static/css/main.75693a06.css.map",
-    "main.0a526c5a.js.map": "/github.io/coding-journal/static/js/main.0a526c5a.js.map"
+    "main.css": "/coding-journal/static/css/main.75693a06.css",
+    "main.js": "/coding-journal/static/js/main.0a526c5a.js",
+    "index.html": "/coding-journal/index.html",
+    "main.75693a06.css.map": "/coding-journal/static/css/main.75693a06.css.map",
+    "main.0a526c5a.js.map": "/coding-journal/static/js/main.0a526c5a.js.map"
   },
   "entrypoints": [
     "static/css/main.75693a06.css",
